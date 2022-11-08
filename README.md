@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/112918533/200397938-9a470d7e-8658-48ef
 
 ## Extraindo Métricas
 
-Será mostrado sob o <kbd>vídeo abaixo</kbd> uma simples forma de analisar e extrair as métricas a partir do gráfico gerado.
+Será mostrado sob o <kbd>vídeo abaixo</kbd> uma simples forma de analisar e extrair as métricas a partir dos gráficos gerados.
 <br>
 <br>
 
