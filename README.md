@@ -7,7 +7,7 @@ O objetivo deste projeto é criar um programa de análise de dados se baseando n
 
 ## Estrutura do código
 
-Inicialmente será mostrado sob o <kbd>vídeo abaixo</kbd> uma breve explicação por etapas sobre a <kbd>estrutura do código</kbd> que foi criada para o funcionamento desta análise gráfica.
+Inicialmente será mostrado sob o <kbd>vídeo abaixo</kbd> uma breve explicação por etapas sobre a <kbd>estrutura do código</kbd> que foi criada para o funcionamento deste programa, no qual irá auxiliar na análise gráfica de um determinado problema.
 <br>
 <br>
 
