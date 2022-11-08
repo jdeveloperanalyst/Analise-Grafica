@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/112918533/200437736-ccbe581b-1873-4a3f
 
 
 ***
-É um projeto bem simples, mas funcional e útil, facilita bastante a análise de dados de forma gráfica para situações diversas dentro de um segmento. Com isto, finalizo aqui <kbd>mais um projeto</kbd> feito com linguagem de programação [![Python 3](https://img.shields.io/badge/-Python%203-05122A?style=flat&logo=python)](https://www.python.org/) e para versionamento [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) e [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/).
+É um projeto bem simples, mas totalmente funcional e útil, facilita bastante a análise de dados de forma gráfica para situações diversas dentro de um segmento. Com isto, finalizo aqui <kbd>mais um projeto</kbd> feito com linguagem de programação [![Python 3](https://img.shields.io/badge/-Python%203-05122A?style=flat&logo=python)](https://www.python.org/) e para versionamento [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) e [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/).
 
 <br>
 
