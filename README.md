@@ -3,7 +3,7 @@
 
 # Análise Gráfica
 
-O objetivo deste projeto é criar um programa de análise de dados se baseando no conceito que cada dia mais cresce nas empresas, que é o <kbd>data driven</kbd>. Com isto, será capaz de transformar uma uma base de dados cheia de informações, nem um pouco fáceis de serem interpretadas... em uma análise super aprofundada que servirão de base para tomada de decisão em determinado projeto.
+O objetivo deste projeto é criar um programa de análise de dados se baseando no conceito que cada dia mais cresce nas empresas, que é o <kbd>data driven</kbd>. Com isto, será capaz de transformar uma base de dados cheia de informações, nem um pouco fáceis de serem interpretadas... em uma análise mais aprofundada que servirão de base para tomada de decisão em uma determinada situação.
 
 ## Estrutura do código
 
