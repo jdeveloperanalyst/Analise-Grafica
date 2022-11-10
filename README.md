@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/112918533/200398898-3249474c-25a5-425a
 
 ## Funcionamento no Pycharm
 
-Executando no pycharm, os gráficos são gerados com sucesso, <kbd>confira abaixo:</kbd>
+Executando no pycharm, os gráficos são gerados com sucesso. <kbd>Confira abaixo:</kbd>
 <br>
 <br>
 
