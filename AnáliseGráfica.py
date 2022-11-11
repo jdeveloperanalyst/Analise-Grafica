@@ -41,4 +41,3 @@ for column in telecom:
         print(telecom.pivot_table(index='Churn', columns=column, aggfunc='count')['IDCliente'])
         print('\n')
         time.sleep(1)
-print('Olá')
